@@ -1,0 +1,13 @@
+{
+  "id": "multilogin",
+  "name": "MultiLogin",
+  "version": "@version@",
+  "authors": @contributors_json@,
+  "dependencies": [
+    {
+      "id": "floodgate",
+      "optional": true
+    }
+  ],
+  "main": "fun.ksnb.multilogin.velocity.main.MultiLoginVelocity"
+}

@@ -8,6 +8,8 @@ include 'loader'
 
 include 'velocity'
 include 'velocity:injector'
+
+include 'mixedloginvelocity'
 //
 //include 'bungee'
 //include 'bungee:injector'
